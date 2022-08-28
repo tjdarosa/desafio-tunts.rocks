@@ -128,6 +128,7 @@ async function createSheet(countriesArray){
     }
 
     wb.write("CountriesList.xlsx")
+    console.log('.xlsx file generated!')
 }
 
 //Here is the main function, from where the application execution begins
