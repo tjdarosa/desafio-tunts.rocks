@@ -127,7 +127,7 @@ async function createSheet(countriesArray){
         rowCount ++;
     }
 
-    wb.write(".xlsx/CountriesList.xlsx")
+    wb.write("CountriesList.xlsx")
 }
 
 //Here is the main function, from where the application execution begins

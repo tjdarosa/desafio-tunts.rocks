@@ -1,5 +1,4 @@
-# desafio-tunts.rocks
-Repository for Tunts.Rocks internship challenge 
+# Tunts.Rocks internship challenge 
 
 In order to run this application, it`s needed to use two commands.
 
@@ -9,4 +8,4 @@ The other one is "npm start", that will run the index.js file, starting the appl
 
 Both commands need to be executed in the same directory that constains the project files. 
 
-The .xlsx file generated will be inside the ".xlsx" folder.
+The .xlsx file generated will be in directory of the other project files.
