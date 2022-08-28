@@ -6,6 +6,6 @@ The first one is "npm init", used to intialize the project.
 
 The other one is "npm start", that will run the index.js file, starting the application.
 
-Both commands need to be executed in the same directory that constains the project files. 
+Both commands need to be executed in the same directory that contains the project files. 
 
 The .xlsx file generated will be in the directory of the other project files.
